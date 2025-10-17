@@ -54,3 +54,8 @@ Contributions are welcome! Feel free to submit pull requests with new challenges
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+- **GitHub:** [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar) 
+- **LinkedIn:** [Saad Abd El-Ghaffar](https://www.linkedin.com/in/saadabdelghaffar/) 
+- **Email:** [saad.abdelghaffar.ai@gmail.com](mailto:saad.abdelghaffar.ai@gmail.com)
